@@ -1,5 +1,5 @@
 {
-    "name": "paypal/rest-api-sdk-php",
+    "name": "masena/paypal-sdk",
     "description": "PayPal's PHP SDK for REST APIs",
     "keywords": ["paypal", "payments", "rest", "sdk"],
     "type": "library",
